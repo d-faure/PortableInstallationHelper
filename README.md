@@ -4,7 +4,7 @@ Quick'n dirty plugin for Sublime Text 3 portable installations (not tested on Su
 
 ## Overview
 
-This plugin alters the editor PATH environment variable during program startup, enabing the use of external binaries usually not reachable through the regular PATH definition.
+This plugin alters the editor PATH environment variable during program startup, enabling the use of external binaries usually not reachable through the regular PATH definition.
 
 ## Installation
 
